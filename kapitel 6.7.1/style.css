@@ -33,7 +33,11 @@ li {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    border: 0px;
+    border-bottom: 3px solid black;
     border-radius: 150px;
     margin: 0 auto 0 auto;
+}
+
+h2 {
+    text-align: center;
 }
