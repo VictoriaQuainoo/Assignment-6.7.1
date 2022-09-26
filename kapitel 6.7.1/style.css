@@ -26,6 +26,10 @@ li {
     padding: 9px;
 }
 
+a {
+    color: black;
+}
+
 .img {
     background-image: url("Rihanna.webp");
     width: 300px;
