@@ -1,4 +1,27 @@
 body {
     width: 600px;
     margin: 0 auto 0 auto;
+    padding-top: 5px;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(255, 230, 199);
+    color: rgb(250, 166, 62);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+nav {
+    border-bottom: 2px solid black;
+}
+
+ul {
+    text-align: center;
+
+}
+
+li {
+    display: inline-block;
+    padding: 8px;
 }
