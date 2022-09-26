@@ -7,6 +7,8 @@ body {
     width: 600px;
     margin: 0 auto 0 auto;
     padding-top: 5px;
+    background-color: rgb(255, 251, 246);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
@@ -16,6 +18,8 @@ header {
     color: rgb(250, 166, 62);
     padding: 8px;
     border-radius: 5px;
+    font-family: 'TitanOne Regular';
+    font-weight: lighter;
 }
 
 nav {
@@ -50,4 +54,10 @@ a {
 
 h2 {
     text-align: center;
+}
+
+footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.272);
+    text-align: center;
+    padding: 10px;
 }
