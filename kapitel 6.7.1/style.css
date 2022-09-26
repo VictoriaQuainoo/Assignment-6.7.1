@@ -1,7 +1,13 @@
+@font-face {
+    font-family: "TitanOne Regular";
+    src: url('TitanOne-Regular.ttf');
+}
+
 body {
     width: 600px;
     margin: 0 auto 0 auto;
     padding-top: 5px;
+
 }
 
 header {
